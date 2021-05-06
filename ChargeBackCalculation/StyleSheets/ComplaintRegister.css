@@ -1,0 +1,15 @@
+﻿body {
+    background: url('https://blog.ipleaders.in/wp-content/uploads/2016/08/before-you-file-a-complaint.jpg') no-repeat center fixed;
+    background-size: cover;
+}
+
+
+#footer {
+    position: fixed;
+    padding: 10px 10px 0px 10px;
+    bottom: 0;
+    width: 100%;
+    /* Height of the footer*/
+    height: 40px;
+    background: grey;
+}

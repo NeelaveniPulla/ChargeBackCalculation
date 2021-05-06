@@ -1,0 +1,24 @@
+﻿body {   
+
+
+    background: url('https://www.mycheapwebdesign.com/img/Affordable-Web-Design-Canada.jpg') no-repeat center fixed;
+    background-size: cover;
+}
+
+#footer {
+    position: fixed;
+    padding: 10px 10px 0px 10px;
+    bottom: 0;
+    width: 100%;
+    /* Height of the footer*/
+    height: 40px;
+    background: grey;
+}
+
+.row {
+    padding-bottom: 500px;
+}
+
+.col-md-4 {
+    padding: 65px;
+}
